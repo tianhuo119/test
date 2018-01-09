@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/iris.py" line="24" mnemonic="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac6a965e-2277-4147-ab99-de2e45cc50a5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/%E5%8C%97%E4%BA%AC景点信息.xlsx" afterPath="$PROJECT_DIR$/%E5%8C%97%E4%BA%AC景点信息.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/asm-commons.jar" afterPath="$PROJECT_DIR$/lib/asm-commons.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/asm-tree.jar" afterPath="$PROJECT_DIR$/lib/asm-tree.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/asm.jar" afterPath="$PROJECT_DIR$/lib/asm.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/commons-fileupload.jar" afterPath="$PROJECT_DIR$/lib/commons-fileupload.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/commons-io.jar" afterPath="$PROJECT_DIR$/lib/commons-io.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/commons-lang.jar" afterPath="$PROJECT_DIR$/lib/commons-lang.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/freemarker.jar" afterPath="$PROJECT_DIR$/lib/freemarker.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/javassist.jar" afterPath="$PROJECT_DIR$/lib/javassist.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ognl.jar" afterPath="$PROJECT_DIR$/lib/ognl.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/struts2-core.jar" afterPath="$PROJECT_DIR$/lib/struts2-core.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/xwork-core.jar" afterPath="$PROJECT_DIR$/lib/xwork-core.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/db.lck" afterPath="$PROJECT_DIR$/metastore_db/db.lck" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/dbex.lck" afterPath="$PROJECT_DIR$/metastore_db/dbex.lck" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/log/log.ctrl" afterPath="$PROJECT_DIR$/metastore_db/log/log.ctrl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/log/log1.dat" afterPath="$PROJECT_DIR$/metastore_db/log/log1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/log/logmirror.ctrl" afterPath="$PROJECT_DIR$/metastore_db/log/logmirror.ctrl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c10.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c10.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c101.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c101.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c111.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c111.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c121.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c121.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c130.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c130.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c141.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c141.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c150.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c150.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c161.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c161.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c171.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c171.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c180.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c180.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c191.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c191.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c1a1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c1b1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1b1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c1c0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1c0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c1d1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1d1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c1e0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1e0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c1f1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1f1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c20.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c20.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c200.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c200.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c211.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c211.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c221.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c221.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c230.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c230.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c241.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c241.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c251.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c251.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c260.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c260.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c271.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c271.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c281.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c281.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c290.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c290.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c2a1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c2a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c2b1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c2b1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c2c1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c2c1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c2d0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c2d0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c2e1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c2e1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c2f0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c2f0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c300.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c300.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c31.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c31.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c311.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c311.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c321.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c321.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c331.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c331.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c340.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c340.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c351.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c351.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c361.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c361.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c371.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c371.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c380.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c380.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c391.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c391.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c3a1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c3a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c3b1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c3b1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c3c0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c3c0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c3d1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c3d1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c3e1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c3e1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c3f1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c3f1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c400.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c400.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c41.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c41.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c411.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c411.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c421.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c421.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c430.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c430.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c441.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c441.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c451.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c451.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c461.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c461.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c470.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c470.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c481.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c481.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c490.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c490.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c4a1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c4b0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4b0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c4c1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4c1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c4d1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4d1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c4e1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4e1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c4f0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4f0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c501.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c501.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c51.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c51.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c510.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c510.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c521.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c521.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c530.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c530.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c541.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c541.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c550.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c550.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c561.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c561.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c570.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c570.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c581.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c581.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c590.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c590.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c5a1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c5b0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5b0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c5c1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5c1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c5d0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5d0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c5e1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5e1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c5f0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5f0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c60.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c60.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c601.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c601.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c610.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c610.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c621.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c621.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c630.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c630.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c641.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c641.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c650.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c650.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c661.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c661.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c670.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c670.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c681.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c681.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c690.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c690.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c6a1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c6b0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6b0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c6c1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6c1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c6d0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6d0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c6e1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6e1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c6f0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6f0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c701.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c701.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c71.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c71.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c711.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c711.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c721.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c721.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c731.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c731.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c741.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c741.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c751.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c751.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c761.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c761.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c771.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c771.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c781.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c781.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c791.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c791.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c7a1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c7a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c7b1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c7b1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c7c1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c7c1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c7d1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c7d1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c7e1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c7e1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c7f1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c7f1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c801.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c801.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c81.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c81.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c811.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c811.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c821.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c821.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c831.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c831.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c840.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c840.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c851.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c851.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c860.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c860.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c871.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c871.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c880.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c880.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c891.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c891.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c8a0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c8a0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c8b1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c8b1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c8c1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c8c1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c8d1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c8d1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c8e1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c8e1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c8f1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c8f1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c90.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c90.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c901.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c901.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c911.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c911.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c920.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c920.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c931.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c931.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c940.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c940.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c951.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c951.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c960.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c960.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c971.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c971.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c981.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c981.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c990.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c990.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c9a1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c9b1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9b1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c9c0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9c0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c9d1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9d1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c9e0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9e0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/c9f1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9f1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/ca01.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/ca01.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/ca1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/ca1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/ca11.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/ca11.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/ca21.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/ca21.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/cb1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/cb1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/cc0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/cc0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/cd1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/cd1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/ce1.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/ce1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/cf0.dat" afterPath="$PROJECT_DIR$/metastore_db/seg0/cf0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/德州景点信息.xlsx" afterPath="$PROJECT_DIR$/德州景点信息.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/标准正态分布表.xlsx" afterPath="$PROJECT_DIR$/标准正态分布表.xlsx" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace-autolist/ELE_WSAH" afterPath="$USER_HOME$/workspace-autolist/ELE_WSAH" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/test_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/test_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Struts_2_2_3_20_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Struts_2_2_3_20_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/ipythonTest-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/ipythonTest-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/test-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/test-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/股票数据查询练习-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/股票数据查询练习-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoTest.py" afterPath="$PROJECT_DIR$/AutoTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Black-Scholes-Merton_def.py" afterPath="$PROJECT_DIR$/Black-Scholes-Merton_def.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BlockchainTest.py" afterPath="$PROJECT_DIR$/BlockchainTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CocaCola.py" afterPath="$PROJECT_DIR$/CocaCola.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CocaColaTest.py" afterPath="$PROJECT_DIR$/CocaColaTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLregression.py" afterPath="$PROJECT_DIR$/MLregression.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLregression_next.py" afterPath="$PROJECT_DIR$/MLregression_next.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bsm_mcs_euro.py" afterPath="$PROJECT_DIR$/bsm_mcs_euro.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crossValidatorTest.py" afterPath="$PROJECT_DIR$/crossValidatorTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data.json" afterPath="$PROJECT_DIR$/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataminingTest.py" afterPath="$PROJECT_DIR$/dataminingTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/derby.log" afterPath="$PROJECT_DIR$/derby.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/echartsMap.html" afterPath="$PROJECT_DIR$/echartsMap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetchxici.py" afterPath="$PROJECT_DIR$/fetchxici.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geoCoordMap.json" afterPath="$PROJECT_DIR$/geoCoordMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ipythonTest.ipynb" afterPath="$PROJECT_DIR$/ipythonTest.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/irisTest.py" afterPath="$PROJECT_DIR$/irisTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mcs pure_python.py" afterPath="$PROJECT_DIR$/mcs pure_python.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mcs_vector_numpy.py" afterPath="$PROJECT_DIR$/mcs_vector_numpy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/README_DO_NOT_TOUCH_FILES.txt" afterPath="$PROJECT_DIR$/metastore_db/README_DO_NOT_TOUCH_FILES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/log/README_DO_NOT_TOUCH_FILES.txt" afterPath="$PROJECT_DIR$/metastore_db/log/README_DO_NOT_TOUCH_FILES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/seg0/README_DO_NOT_TOUCH_FILES.txt" afterPath="$PROJECT_DIR$/metastore_db/seg0/README_DO_NOT_TOUCH_FILES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metastore_db/service.properties" afterPath="$PROJECT_DIR$/metastore_db/service.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/points.json" afterPath="$PROJECT_DIR$/points.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proxy.txt" afterPath="$PROJECT_DIR$/proxy.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pytset.py" afterPath="$PROJECT_DIR$/pytset.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shuangseqiu.py" afterPath="$PROJECT_DIR$/shuangseqiu.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/struts.xml" afterPath="$PROJECT_DIR$/src/struts.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iml" afterPath="$PROJECT_DIR$/test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.ipynb" afterPath="$PROJECT_DIR$/test.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test1.py" afterPath="$PROJECT_DIR$/test1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/假设检验.py" afterPath="$PROJECT_DIR$/假设检验.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/股票数据查询练习.ipynb" afterPath="$PROJECT_DIR$/股票数据查询练习.ipynb" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/test$id97.coverage" NAME="id97 Coverage Results" MODIFIED="1505917424820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$CocaColaTest.coverage" NAME="CocaColaTest Coverage Results" MODIFIED="1507387930027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$AutoTest.coverage" NAME="AutoTest Coverage Results" MODIFIED="1506480869022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/test$notravellist.coverage" NAME="notravellist Coverage Results" MODIFIED="1505865540469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$shouxieti.coverage" NAME="shouxieti Coverage Results" MODIFIED="1515420913297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$irisTest.coverage" NAME="irisTest Coverage Results" MODIFIED="1515504107618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/test$fetchxici.coverage" NAME="fetchxici Coverage Results" MODIFIED="1505877976988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$iris.coverage" NAME="iris Coverage Results" MODIFIED="1515505436793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$titanic.coverage" NAME="titanic Coverage Results" MODIFIED="1515509874011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/test$BlockchainTest.coverage" NAME="BlockchainTest Coverage Results" MODIFIED="1505801222660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$shuangseqiu.coverage" NAME="shuangseqiu Coverage Results" MODIFIED="1506347250341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$20newsgroups.coverage" NAME="20newsgroups Coverage Results" MODIFIED="1515421142174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/test$.coverage" NAME="假设检验 Coverage Results" MODIFIED="1505801208938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="mcs pure_python.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mcs pure_python.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+              <folding>
+                <element signature="e#21#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CocaCola.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CocaCola.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CocaColaTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CocaColaTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhongliu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhongliu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shouxieti.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shouxieti.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20newsgroups.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20newsgroups.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="8" column="21" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="irisTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/irisTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="129" column="60" lean-forward="false" selection-start-line="129" selection-start-column="60" selection-end-line="129" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iris.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iris.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="titanic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/titanic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boston.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/boston.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="struts_2_3" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sight_slogen</find>
+      <find>抓取失败，具体原因</find>
+      <find>getBaiduGeo</find>
+      <find>html</find>
+      <find>result_list</find>
+      <find>test_set</find>
+      <find>dumps</find>
+      <find>N/A</find>
+      <find>7.8</find>
+      <find>read</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/anaconda/lib/python3.6/http/client.py" />
+        <option value="$PROJECT_DIR$/BlockchainTest.py" />
+        <option value="$PROJECT_DIR$/假设检验.py" />
+        <option value="$PROJECT_DIR$/notravellist.py" />
+        <option value="$PROJECT_DIR$/fetchxici.py" />
+        <option value="$PROJECT_DIR$/id97.py" />
+        <option value="$PROJECT_DIR$/shuangseqiu.py" />
+        <option value="$PROJECT_DIR$/mcs pure_python.py" />
+        <option value="$PROJECT_DIR$/AutoTest.py" />
+        <option value="$PROJECT_DIR$/CocaCola.py" />
+        <option value="$PROJECT_DIR$/CocaColaTest.py" />
+        <option value="$PROJECT_DIR$/shouxieti.py" />
+        <option value="$PROJECT_DIR$/20newsgroups.py" />
+        <option value="$PROJECT_DIR$/irisTest.py" />
+        <option value="$PROJECT_DIR$/iris.py" />
+        <option value="$PROJECT_DIR$/titanic.py" />
+        <option value="$PROJECT_DIR$/boston.py" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="test/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="nonRecursive" value="true" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1425" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyFromFutureImportInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="test" sdk-home="$USER_HOME$/anaconda3/bin/python3.6">
+        <option name="mySdkHome" value="$USER_HOME$/anaconda3/bin/python3.6" />
+        <option name="myModuleName" value="test" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.titanic">
+    <configuration name="20newsgroups" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20newsgroups.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration name="iris" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iris.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="irisTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/irisTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="shouxieti" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shouxieti.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="titanic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/titanic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.shouxieti" />
+      <item index="1" class="java.lang.String" itemvalue="Python.20newsgroups" />
+      <item index="2" class="java.lang.String" itemvalue="Python.irisTest" />
+      <item index="3" class="java.lang.String" itemvalue="Python.iris" />
+      <item index="4" class="java.lang.String" itemvalue="Python.titanic" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.titanic" />
+        <item index="1" class="java.lang.String" itemvalue="Python.iris" />
+        <item index="2" class="java.lang.String" itemvalue="Python.irisTest" />
+        <item index="3" class="java.lang.String" itemvalue="Python.20newsgroups" />
+        <item index="4" class="java.lang.String" itemvalue="Python.shouxieti" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac6a965e-2277-4147-ab99-de2e45cc50a5" name="Default" comment="" />
+      <created>1504143314808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504143314808</updated>
+      <workItem from="1504143317366" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1425" height="826" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20173536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35430917" sideWeight="0.24367318" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935324" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35430917" sideWeight="0.75632685" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831737" sideWeight="0.48590022" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.53648067" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39974293" sideWeight="0.48354793" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.49713877" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/假设检验.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/id97.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="133" column="20" lean-forward="false" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlockchainTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="48" lean-forward="false" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notravellist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsm_mcs_euro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/假设检验.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/id97.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlockchainTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="48" lean-forward="false" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notravellist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#40#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsm_mcs_euro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlockchainTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/假设检验.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ipythonTest.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notravellist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlockchainTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notravellist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/re.py" />
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/urllib/request.py" />
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/http/client.py" />
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/codecs.py" />
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/re.py" />
+    <entry file="file://$PROJECT_DIR$/notravellist.py.bak" />
+    <entry file="file://$PROJECT_DIR$/src/struts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geoCoordMap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/id97.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="91" column="45" lean-forward="false" selection-start-line="91" selection-start-column="45" selection-end-line="91" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/假设检验.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataminingTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossValidatorTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bsm_mcs_euro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlockchainTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="48" lean-forward="false" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLregression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLregression_next.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notravellist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="78" column="11" lean-forward="false" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+          <folding>
+            <element signature="e#40#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shuangseqiu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetchxici.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/site-packages/IPython/core/interactiveshell.py" />
+    <entry file="file://$PROJECT_DIR$/AutoTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="144" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="153" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ipythonTest.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CocaColaTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CocaCola.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mcs pure_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="e#21#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shouxieti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhongliu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20newsgroups.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/irisTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="129" column="60" lean-forward="false" selection-start-line="129" selection-start-column="60" selection-end-line="129" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/sklearn/metrics/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="1427" column="0" lean-forward="false" selection-start-line="1427" selection-start-column="0" selection-end-line="1427" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/titanic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boston.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
